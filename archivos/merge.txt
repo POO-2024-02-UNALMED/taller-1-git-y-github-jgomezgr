@@ -1,0 +1,1 @@
+Porque al crear un archivo dentro de la carpeta ahora si detecta un cambio tanto del archivo como de la carpeta.
