@@ -1,0 +1,1 @@
+Al crear la carpeta, Git no lo detecta como un cambio y no se puede realizar un commit.
