@@ -2,3 +2,5 @@ Juan José Gómez Grajales, 19 años.
 
 Me gustaria aprender mucho sobre la POO, ya que son las bases o los pilares fundamentales sobre lo que voy a ver a lo largo de mi carrera como programador.
 Porque al crear un archivo dentro de la carpeta ahora si detecta un cambio tanto del archivo como de la carpeta.
+
+Porque genera conflictos al realizar los commits.
